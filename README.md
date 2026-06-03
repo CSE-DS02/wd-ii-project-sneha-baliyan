@@ -1,2 +1,76 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/TM81lKW4)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=24067841&assignment_repo_type=AssignmentRepo)
+🚀 GitHub User Card App
+A simple and interactive web application built using HTML, CSS, and JavaScript that allows users to create and manage GitHub profile cards.
+
+📌 Features
+📝 User Form (Name, Email, GitHub Username)
+🔍 Search Functionality
+🖼️ GitHub Profile Image Fetch
+👥 Followers Count
+📦 Public Repositories Count
+❌ Delete User कार्ड
+💾 Local Storage (Data Persistence)
+⚡ Async/Await + Fetch API
+🛑 Error Handling using Try-Catch
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript (ES6)
+GitHub REST API
+📷 How It Works
+User fills the form with details
+App fetches GitHub data using API
+Displays user info in card format
+Stores data in localStorage
+Allows searching and deleting users
+🌐 GitHub API Used
+https://api.github.com/users/{username}
+📂 Project Structure
+project/
+│── index.html
+│── style.css
+│── script.js
+💡 Concepts Used
+DOM Manipulation
+Event Handling
+Functions & Conditionals
+Loops (forEach)
+Async/Await
+Fetch API
+Try-Catch Error Handling
+LocalStorage
+📘 Emoji Guide (For Beginners)
+This project uses emojis to make the README more readable and visually appealing.
+
+🚀 Common Emojis Used
+Emoji	Meaning
+🚀	Project / Launch
+🔥	Important / Highlight
+📌	Features
+🛠️	Tools / Technologies
+🎯	Goal / Objective
+⭐	Star the repository
+💻 Development Related
+Emoji	Meaning
+💻	Coding / Development
+🧑‍💻	Developer
+⚙️	Backend / Logic
+📦	Package / Data
+🎨 UI & Design
+Emoji	Meaning
+🎨	Design / UI
+✨	New Feature
+🌈	Color / Styling
+⚡ Actions & Status
+Emoji	Meaning
+▶️	Start
+⏹️	Stop
+🔄	Update / Refresh
+✅	Success
+❌	Error
+📂 Project Structure
+Emoji	Meaning
+📂	Folder
+📁	Files
+📊	Data
+📋	Information
+💡 Tip: Emojis are used only to improve readability. Avoid overusing them.
